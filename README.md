@@ -1,7 +1,7 @@
 
 ##Descrition 
 
-This is a page created from scratch using different tools , this one about a Mexican restaurante page, 
+This is a page created from scratch using different tools , this one about a Mexican restaurant page, 
 where all kind of different and delicious food is sold
 
 
